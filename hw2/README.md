@@ -134,4 +134,5 @@ conversation = [
 
 *   **Defending Against Prompt Injection With a Few DefensiveTokens.**\
     Sizhe Chen, Yizhu Wang, Nicholas Carlini, Chawin Sitawarin, David Wagner. 
-    *ICML 2025*. [arXiv:2507.07974](https://arxiv.org/abs/2507.07974) | [GitHub Repo](https://github.com/Sizhe-Chen/DefensiveToken)
+    *ICML 2025*. 
+    [arXiv:2507.07974](https://arxiv.org/abs/2507.07974) | [GitHub Repo](https://github.com/Sizhe-Chen/DefensiveToken)
